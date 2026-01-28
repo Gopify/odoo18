@@ -330,7 +330,7 @@ msgstr "Đơn vị tính"
 #. module: uom
 #: model:ir.model.fields,field_description:uom.field_uom_category__name
 msgid "Unit of Measure Category"
-msgstr "Unit of Measure Category"
+msgstr "Danh mục đơn vị tính"
 
 #. module: uom
 #: model:uom.uom,name:uom.product_uom_unit
